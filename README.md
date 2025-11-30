@@ -1,7 +1,7 @@
-# <a href="js-pinned-items-reorder-list">Hi there, i'm Rafaela de Abreu 👋</a>
+## <a href="js-pinned-items-reorder-list">Hi there, i'm Rafaela de Abreu 👋</a>
 
 
-## 💻 There are some technologies that I have been using
+### 💻 There are some technologies that I have been using
 
 <div style="display: inline_block"><br>
   <img align="center" alt="vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
@@ -19,7 +19,7 @@
     
 <br>
  
-## 🤝 Connections
+### 🤝 Connections
  
 <div> 
   <a href ="rafaelaasr.ec@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
