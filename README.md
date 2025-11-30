@@ -1,4 +1,4 @@
-### <a href="js-pinned-items-reorder-list" style="color="#ffffff">Hi there, i'm Rafaela de Abreu 👋</a>
+### <a href="js-pinned-items-reorder-list" style="color='#ffffff'">Hi there, i'm Rafaela de Abreu 👋</a>
 
  <div>
    <a href="https://github.com/RafaelaASR">
