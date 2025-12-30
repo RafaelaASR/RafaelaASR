@@ -22,7 +22,7 @@
     <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaASR&layout=compact&langs_count=6&theme=tokyonight"
-      alt="the API problably was paused to updates."
+      alt="the API "Github Stats" problably was paused to updates."
       onerror="document.getElementById('github-stats').style.display='none';"
     />
   </a>
