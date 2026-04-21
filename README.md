@@ -13,13 +13,7 @@
 
 <div id="github-stats">
   <a href="https://github.com/RafaelaASR">
-    <img
-      height="180em"
-      src="https://github-readme-stats.vercel.app/api?username=RafaelaASR&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
-      alt="If you can read this,"
-      onerror="document.getElementById('github-stats').style.display='none';"
-    />
-    <img
+  <img
       height="180em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelaASR&layout=compact&langs_count=6&theme=tokyonight"
       alt="the API 'Github Stats' problably was paused to updates."
