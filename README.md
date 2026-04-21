@@ -3,7 +3,7 @@
 
 ### 💻 There are some technologies that I have been using
 
-<div style="display: flex; flex-direction: column"><br>
+<div style="display: flex; flex-direction: inline"><br>
   <img align="center" alt="vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
